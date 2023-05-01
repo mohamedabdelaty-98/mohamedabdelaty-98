@@ -1,5 +1,5 @@
 
-<img width="220" align="right" src="https://c.tenor.com/papK2E3wvMEAAAAd/fwow-ai.gif">
+<img width="250" align="right" src="https://c.tenor.com/papK2E3wvMEAAAAd/fwow-ai.gif">
 
 <h3 align="center">
   Welcome to Mohamed Abdelaty's profile!
