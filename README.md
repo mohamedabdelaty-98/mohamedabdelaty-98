@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, Python, .NetCore, MVC, and SQL or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://abdelatym775.wixsite.com/my-site-6 to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://abdelatym775.wixsite.com/my-cv to see some of the projects I've worked on.
 
 
 ### Connect with Me :
