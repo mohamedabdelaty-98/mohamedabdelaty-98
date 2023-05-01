@@ -33,6 +33,7 @@
 ![.NetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&logo=.NetCore)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
+![MachineLearning](https://img.shields.io/badge/-MachineLearning%20-05122A?style=flat&logo=MachineLearning)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
