@@ -23,7 +23,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-abdelaty-2291a1177/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamedabdelaty98/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/ana.alamier.52" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:abdelatym775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://wa.me/201022682159" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdelaty-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
